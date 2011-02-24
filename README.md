@@ -24,17 +24,17 @@ Work on this problem until I am satisfied, which I will do, then return the clie
 
 To Run: 
              
-install Ruby version 1.9.2p0 or greater
-Download or Clone the hitchhiker project folder with files
+install Ruby version 1.9.2p0 or greater  
+Download or Clone the hitchhiker project folder with files  
 
-$ cd path_to_hitchhiker/
-$ ruby hitchhiker_programm.rb
+$ cd path_to_hitchhiker/  
+$ ruby hitchhiker_programm.rb  
 
 To Review
 
-$ open .
- or 
-$ mate .
+$ open .  
+ or   
+$ mate .  
 
 
                                                        
